@@ -55,7 +55,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "A emoji to display in help command",
-      "value": "✘"
+      "value": "🥀"
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
